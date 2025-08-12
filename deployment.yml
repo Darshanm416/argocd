@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: darshanm416/nginx:1.0.1
+          image: darshanm416/nginx:1.0.2
           ports: 
             - containerPort: 80
